@@ -10,6 +10,8 @@ python = "^3.12"
 seaborn = "^0.13.2"
 matplotlib = "^3.9.2"
 yfinance = "^0.2.41"
+plotly = "^5.23.0"
+nbformat = "^5.10.4"
 
 
 [tool.poetry.group.dev.dependencies]
